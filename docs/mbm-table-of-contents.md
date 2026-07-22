@@ -1,0 +1,152 @@
+# TABLE OF CONTENTS
+
+- **1. INTRODUCTION** — 9
+  - **1.1. The MBM concept** — 10
+    - **1.1.1. The opportunities of the MBM concept** — 13
+    - **1.1.2. The practical effects of the MBM concept** — 14
+  - **1.2. The make-up of the MBM book** — 15
+  - **1.3. The problems we address** — 15
+    - **1.3.1. Organizing the workload** — 16
+    - **1.3.2. Shaping activities** — 16
+    - **1.3.3. Management, leadership and cooperation** — 16
+    - **1.3.4. Development- and change management** — 17
+
+- **2. THE SOCIAL DIMENSION OF THE ORGANIZATION** — 19
+  - **2.1. The individual** — 19
+    - **2.1.1. An inherent desire to participate, influence and develop** — 22
+  - **2.2. Work group and work climate** — 23
+    - **2.2.1. The work group's criteria, attitudes and values** — 24
+    - **2.2.2. The efficient work group** — 25
+  - **2.3. Organizational culture** — 25
+  - **2.4. Summary** — 27
+
+- **3. THE BUSINESS** — 31
+  - **3.1. Development towards process orientation** — 31
+  - **3.2. What is a process?** — 32
+  - **3.3. Process orientation in practice** — 35
+  - **3.4. Advantages of process orientation** — 38
+  - **3.5. Process modeling** — 38
+  - **3.6. Summary** — 39
+
+- **4. MANAGEMENT** — 43
+  - **4.1. Function, goals and strategies** — 43
+    - **4.1.1. Function** — 43
+    - **4.1.2. Vision** — 44
+    - **4.1.3. Goals** — 45
+    - **4.1.4. Composition and break-down of goals** — 47
+    - **4.1.5. Strategy and “strategical goals”** — 49
+  - **4.2. Control and coordination** — 50
+    - **4.2.1. Business control in practice** — 50
+    - **4.2.2. Support systems for effective control** — 52
+  - **4.3. Management in change** — 52
+    - **4.3.1. Management committed to change** — 52
+  - **4.4. Trust, security and structure** — 55
+    - **4.4.1. Trust, security and structure in times of change** — 55
+  - **4.5. In-service training and sharing of resources** — 56
+    - **4.5.1. In-service training and sharing of resources in times of change** — 56
+  - **4.6. Objective management** — 57
+    - **4.6.1. Points for consideration in objective management** — 58
+    - **4.6.2. The objective-managed work group** — 59
+    - **4.6.3. Project groups** — 60
+  - **4.7. Four management roles** — 61
+    - **4.7.1. Business manager** — 62
+    - **4.7.2. Process owner** — 63
+    - **4.7.3. Competence manager (or line manager)** — 63
+    - **4.7.4. The operational manager** — 65
+  - **4.8. Summary** — 65
+
+- **5. CHANGE** — 69
+  - **5.1. What is meant by “organizational change”?** — 69
+    - **5.1.1. Restructuring, cut-backs and radical innovation** — 69
+    - **5.1.2. Continual change step-by-step** — 70
+  - **5.2. Do planned changes lead to real changes?** — 71
+  - **5.3. Strategical change management** — 77
+  - **5.4. Resistance to change, opposition and conflicts** — 79
+    - **5.4.1. Resistance to change, and opposition** — 79
+    - **5.4.2. Conflicts** — 80
+  - **5.5. Different types of change management consultants** — 82
+    - **5.5.1. The consultant as expert** — 82
+    - **5.5.2. The consultant as fixer** — 83
+    - **5.5.3. The consultant as developer** — 83
+  - **5.6. Planning, controlling and prioritizing continual change** — 84
+    - **5.6.1. Strategies and goals determine development requirements** — 84
+    - **5.6.2. Controlling and prioritizing** — 85
+    - **5.6.3. Controlling in several dimensions** — 85
+    - **5.6.4. To prioritize from several perspectives** — 86
+    - **5.6.5. Overview and coordination** — 87
+    - **5.6.6. A logical chain of requirements and opportunities** — 88
+    - **5.6.7. The creative meeting between requirements and opportunities** — 89
+    - **5.6.8. Overview in the planning process** — 90
+    - **5.6.9. The integrated planning process** — 91
+    - **5.6.10. The systematics of prioritizing** — 92
+    - **5.6.11. Recycle, buy, build: “Stolen with pride”** — 94
+    - **5.6.12. We have a general value chain that connects to the business** — 95
+  - **5.7. Summary** — 99
+
+- **6. THE MBM CONCEPT IN PRACTICE** — 105
+  - **6.1. MBM methodology: a supporting handrail in change management** — 108
+  - **6.2. Four supporting principles for effective change** — 109
+  - **6.3. Six important perspectives** — 110
+  - **6.4. A graphical language** — 112
+    - **6.4.1. The components of the graphical language** — 112
+  - **6.5. A model-based methodology** — 114
+  - **6.6. An industry-independent model structure** — 116
+  - **6.7. The workshop methodology** — 118
+    - **6.7.1. Group collaboration** — 118
+    - **6.7.2. Group constellation** — 119
+  - **6.8. Solid professional competence and experience** — 120
+    - **6.8.1. The MBM consultant as a catalyst** — 121
+    - **6.8.2. The MBM consultant as a modeler** — 121
+  - **6.9. Summary** — 122
+
+- **7. DEVELOPMENT AND CHANGE SUPPORTED BY THE MBM CONCEPT** — 125
+  - **7.1. Working from the basis of the Four Supporting Pillars** — 125
+    - **7.1.1. Visualization** — 126
+    - **7.1.2. Communication** — 127
+    - **7.1.3. Participation** — 128
+    - **7.1.4. Different perspectives** — 130
+    - **7.1.5. Summary: Four supporting principles** — 131
+  - **7.2. Working from the basis of the Six Primary Perspectives** — 132
+    - **7.2.1. The global perspective: Market and Trends** — 133
+    - **7.2.2. The Interested Party and Requirements perspective** — 134
+    - **7.2.3. The Business perspective: Process and product analysis** — 137
+    - **7.2.4. The Organizational perspective: responsibility, roles, resources and competences** — 142
+    - **7.2.5. The Information Perspective** — 143
+    - **7.2.6. The Technical Perspective** — 144
+  - **7.3. Our models** — 144
+    - **7.3.1. Market and trends** — 144
+    - **7.3.2. Interested party models and requirements models** — 145
+    - **7.3.3. Process models** — 147
+    - **7.3.4. Product models** — 147
+    - **7.3.5. Organizational models** — 149
+    - **7.3.6. Project models** — 150
+    - **7.3.7. General models** — 150
+    - **7.3.8. IT-models** — 152
+  - **7.4. The basics of modeling** — 154
+    - **7.4.1. Creating the framework: what are we here for?** — 154
+    - **7.4.2. To describe the business: what do our processes look like?** — 155
+    - **7.4.3. The MBM methodology supporting modeling** — 159
+  - **7.5. Our development process** — 159
+  - **7.6. Business management and development** — 168
+
+- **8. WHAT HAPPENS IN A WORKSHOP?** — 173
+  - **8.1. A practical example** — 173
+    - **8.1.1. Summary** — 201
+
+- **9. AREAS OF APPLICATION** — 205
+  - **9.1. Visual Management System (VMS)** — 206
+    - **9.1.1. Creating a Visual Management System** — 208
+  - **9.2. Analyze and secure the business's information management** — 211
+    - **9.2.1. Pre-Workshop** — 214
+    - **9.2.2. During Workshop** — 217
+    - **9.2.3. Post-Workshop** — 221
+    - **9.2.4. Summary** — 222
+  - **9.3. Create consent and standardize terminology within the business** — 222
+  - **9.4. Identify the business's general improvement potential** — 223
+  - **9.5. Creation of requirements and the forms they take** — 227
+
+- **10. APPENDICES** — 231
+  - **10.1. The Business Modeler Suite IT-tool** — 231
+  - **10.2. Symbols, relations and their definitions** — 234
+    - **10.2.1. Symbols and their definitions** — 234
+    - **10.2.2. Relations and their definitions** — 238
